@@ -1,0 +1,73 @@
+NYC PYTHON MEETUP. 2014-11-20. WEB FRAMEWORK SHOWDOWN
+
+Announcements:
+
+	Hour of code
+
+	Coderdojo
+
+Peter Karp (Django New York organizer): Django
+
+	Strongest feature is MVC.
+
+	Back end: 
+		Postgres
+		MySQL
+		SQLite
+
+	Views: 
+		HTML 
+		JSON
+
+			Using Django to generate JSON is a pretty simple matter.
+
+	Mindblowing features of Django
+
+		Django admninistration 
+		Django Geo feature
+
+	Can also hook into the middlewear.
+
+	Django brings organization, which gives you a path for expansion.
+
+	Fantastic documentation.
+
+	djangoproject.com
+
+	'Django is like the VW Camper. Flask is the little "Vespa scooter".'
+
+
+Lightning talk 1: ?: pip freeze
+
+Lightning talk 2: Marcus: MIT App Inventor 2.
+
+
+Eric Schles: Flask
+
+	Developer evangelist for Syncano. 
+	Prof at NYU. 
+
+	Three months of Syncao access
+
+	Three free months of Syncano: Codes is Pythonsync. 
+
+
+	Flask: "Build your views first and let that inform what you're doing."
+
+	Eric creates computational tools to fight slavery. 
+
+	URL mapping is easy. 
+
+	Don't name an app "app". Name collisions!
+
+	Server is either a computer that serves up files, or an application that's served.
+
+	Downsides to Flask:
+
+		Does not scale perfectly (ie, code can get messy).
+
+		Just writing functions instead of classes for views can get ugly. 
+
+			Jon Banafato: Class does have class-based views. 
+
+Lightning talk 3: James Powell: Rewriting the interpreter. 
